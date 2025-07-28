@@ -9,7 +9,7 @@ namespace Practice
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello C#");
+            Console.WriteLine("Hello world");
         }
     }
 }
